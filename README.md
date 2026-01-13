@@ -21,4 +21,5 @@ class NumberGuessingGame:
         pass
 
 game = NumberGuessingGame()
+
 game.main_game_loop()
