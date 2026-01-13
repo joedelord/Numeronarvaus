@@ -5,6 +5,7 @@
 # Mieti miten saat ohjelman toimimaan alla olevilla metodeilla ja ohjeilla.
 
 class NumberGuessingGame:
+
     def __init__(self):
         pass  
        
